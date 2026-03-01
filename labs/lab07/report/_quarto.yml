@@ -34,7 +34,7 @@ format:
     toc-depth: 2
   ### Pdf output format
   pdf:
-    # pdf-engine: xelatex
+    #pdf-engine: xelatex
     ### minted support
     # filters:
     #   - minted-quarto
